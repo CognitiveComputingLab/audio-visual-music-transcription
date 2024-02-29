@@ -1,0 +1,6 @@
+010.mid = audio only
+010new1.mid = segmentHopSize of 1 and segmentSize of 1
+010new6.mid = segmentHopSize of 1 and segmentSize of 6 
+python -m transkun.transcribe 010.mp4 010new6.mid --segmentHopSize 1 --segmentSize 6
+
+https://midiplayer.ehubsoft.net/#google_vignette

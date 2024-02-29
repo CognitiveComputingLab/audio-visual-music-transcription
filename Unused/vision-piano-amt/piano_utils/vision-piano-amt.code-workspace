@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../OMAPS"
+		},
+		{
+			"path": "../../../piano.v4i.yolov7pytorch"
+		}
+	],
+	"settings": {}
+}
