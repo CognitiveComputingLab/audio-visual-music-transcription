@@ -1,0 +1,5 @@
+001.mp4: F1 Score = 0.8954671600370028, Processing Time = 97.62043237686157 seconds
+002.mp4: F1 Score = 0.7894736842105262, Processing Time = 181.36337566375732 seconds
+003.mp4: F1 Score = 0.7467771639042358, Processing Time = 143.7441201210022 seconds
+004.mp4: F1 Score = 0.8714161598609904, Processing Time = 105.46087503433228 seconds
+010.mp4: F1 Score = 0.7587548638132295, Processing Time = 140.8711817264557 seconds

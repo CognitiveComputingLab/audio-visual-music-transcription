@@ -1,0 +1,2 @@
+Average Precision, Average Recall, Average F1 Score
+0.6543788253735862, 0.6906998908163051, 0.6709555315316674

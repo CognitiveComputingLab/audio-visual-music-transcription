@@ -1,0 +1,3 @@
+Best Parameters:
+Segment Size: 32, Hop Size: 24.0
+Best F1 Score: 0.8229090924899257
