@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: piano-vision
+Version: 0.0.1
+Summary: Automatic transcription and assisted tutoring for amateur piano players.
+Home-page: https://github.com/alextompkins/piano-vision
+Author: Alex Tompkins
+Author-email: alex.tompkins@atomic.nz
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Provides-Extra: dev

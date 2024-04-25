@@ -1,0 +1,6 @@
+python transkun/computeMetrics.py 010new6.mid 010.mid --outputJSON 010_output_metrics.json --computeDeviations
+python transkun/computeMetrics.py ../../OMAPS2/output ../../OMAPS2/complete/MIDI --outputJSON ../../OMAPS2/output/OMAPS2_output_metrics.json --computeDeviations
+
+python -m transkun.computeMetrics 010new6.mid 010.mid --outputJSON 010_output_metrics.json --computeDeviations   
+
+python transkun/plotDeviation.py ../../OMAPS2/output/OMAPS2_output_metrics.json --labels "OMAPS2" --offset --T 50 --output ../../OMAPS2/output/OMAPS2_deviation_plot.png

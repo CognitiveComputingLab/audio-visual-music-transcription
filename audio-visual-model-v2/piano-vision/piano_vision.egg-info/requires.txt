@@ -1,0 +1,5 @@
+numpy
+opencv-python
+
+[dev]
+pip-tools

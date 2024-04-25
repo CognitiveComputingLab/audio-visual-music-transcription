@@ -1,0 +1,17 @@
+README.md
+setup.py
+piano_vision/__init__.py
+piano_vision/helpers.py
+piano_vision/main.py
+piano_vision/video_reader.py
+piano_vision.egg-info/PKG-INFO
+piano_vision.egg-info/SOURCES.txt
+piano_vision.egg-info/dependency_links.txt
+piano_vision.egg-info/requires.txt
+piano_vision.egg-info/top_level.txt
+piano_vision/processors/__init__.py
+piano_vision/processors/change_tracker.py
+piano_vision/processors/hand_finder.py
+piano_vision/processors/keyboard_bounder.py
+piano_vision/processors/keys_manager.py
+piano_vision/processors/pressed_key_detector.py
